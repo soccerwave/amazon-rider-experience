@@ -78,7 +78,7 @@ streamlit run apps/streamlit_app2.py
 
 ## 📁 Dataset
 
-The dataset used is a public synthetic Amazon last-mile delivery file with ~43k records.  
+The dataset used is a public synthetic Amazon last mile delivery file with about 43k records.  
 All sensitive columns have been anonymized or simulated.
 
 ---
