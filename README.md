@@ -86,4 +86,6 @@ All sensitive columns have been anonymized or simulated.
 ## 📬 Contact
 
 Feel free to reach out if you'd like to collaborate or discuss insights.  
-LinkedIn / GitHub / Email (add yours here if needed)
+LinkedIn:https://www.linkedin.com/in/hamed-fallah-092147315/
+Email: hamedfallah7007@gmail.com
+
